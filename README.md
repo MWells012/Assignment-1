@@ -33,6 +33,3 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 ![alt text](https://github.com/MWells012/assignment-1/blob/main/assets/images/mock-up-homework-assignment%201%20.png?raw=true) 
-
-
-## Link
